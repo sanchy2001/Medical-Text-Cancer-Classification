@@ -177,7 +177,7 @@ This project demonstrates the power of NLP and deep learning for automated class
 
 ## 👤 Author
 
-**Sanchit Kumar Mahto** *
+**Sanchit Kumar Mahto** 
 
 ---
 
